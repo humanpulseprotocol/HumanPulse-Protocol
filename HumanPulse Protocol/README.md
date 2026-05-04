@@ -35,7 +35,7 @@ HumanPulse uses **Proof of Pulse (PoPu)** — a Core 3‑Layer System that cross
 ### 🔗 Links
 
 - Twitter/X: [@HumanPulse](https://twitter.com/HumanPulse)
-- Discord: [Link coming soon]
+- Discord: [https://discord.gg/aucPEDGNr]
 
 ### 📜 License
 
