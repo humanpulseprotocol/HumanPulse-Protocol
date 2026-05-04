@@ -22,7 +22,7 @@ HumanPulse uses **Proof of Pulse (PoPu)** — a Core 3‑Layer System that cross
 | **Symbol** | $HPP |
 | **Blockchain** | Solana (Token‑2022) |
 | **Supply** | 10,000,000,000 (10 billion, hard cap) |
-| **Decimals** 0 (Devnet) / 9 (Mainnet)
+| **Decimals** | 0 (Devnet) / 9 (Mainnet)
 | **Mint Authority** | HumanPulse Foundation → DAO (Phase 4) |
 | **Freeze Authority** | Revoked |
 | **Token Address (Devnet)** | `EsBZKfFmhVAypmVm6QmenevZ56XZQZUjYF8CLzVnZSnR` |
