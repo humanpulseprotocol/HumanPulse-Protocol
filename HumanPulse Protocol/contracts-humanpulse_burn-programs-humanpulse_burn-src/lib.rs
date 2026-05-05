@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Burn, Token, TokenAccount, Transfer};
 
-declare_id!("BURN111111111111111111111111111111111111111");
+declare_id!("D9tRQi8nZzARTJZXTmSsy4hrx4BwKUNPezKzayvQ5B5N");
 
 #[program]
 pub mod humanpulse_burn {
