@@ -27,6 +27,14 @@ HumanPulse uses **Proof of Pulse (PoPu)** — a Core 3‑Layer System that cross
 | **Freeze Authority** | Revoked |
 | **Token Address (Devnet)** | `EsBZKfFmhVAypmVm6QmenevZ56XZQZUjYF8CLzVnZSnR` |
 
+### ⚙️ Smart Contract (Devnet)
+
+| Parameter | Value |
+|---|---|
+| **Program ID** | `D9tRQi8nZzARTJZXTmSsy4hrx4BwKUNPezKzayvQ5B5N` |
+| **Network** | Solana Devnet |
+| **Function** | Burn‑on‑use: receives $HPP, burns 50%, sends 50% to validator |
+
 ### 📚 Documents
 
 - [Technical Whitepaper v7.1](/whitepaper/humanpulse-whitepaper-v7.1.pdf)
