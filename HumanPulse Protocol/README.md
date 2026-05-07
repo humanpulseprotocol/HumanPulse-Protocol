@@ -29,7 +29,7 @@ The MVP combines webcam-based liveness, challenge-response verification, a Solan
 - **Solana Devnet Program:** https://explorer.solana.com/address/D9tRQi8nZzARTJZXTmSsy4hrx4BwKUNPezKzayvQ5B5N?cluster=devnet
 - **$HPP Token on Solana Devnet:** https://explorer.solana.com/address/EsBZKfFmhVAypmVm6QmenevZ56XZQZUjYF8CLzVnZSnR?cluster=devnet
 - **Landing Repository:** https://github.com/humanpulseprotocol/humanpulse-landing
-- **Technical Whitepaper:** HumanPulse Protocol Technical Whitepaper v7.2
+- **Technical Whitepaper:** https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/whitepaper/HumanPulse_Technical_Whitepaper_v7.2_FINAL.pdf
 
 ---
 
