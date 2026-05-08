@@ -217,6 +217,14 @@ https://explorer.solana.com/tx/5XJ5vB4KJLAXiK9ogufNdNuscLWCrJ3K7e8huGQhdi8WgK4pd
 
 MVP note: the live demo uses browser-based MediaPipe hand detection for challenge-response and a Solana Memo transaction to demonstrate proof consumption on Devnet. The deployed HumanPulse Anchor burn-on-use program represents the protocol’s burn-based verification fee mechanism.
 
+## MVP vs Roadmap Clarification
+
+In the current hackathon MVP, the browser acts as the local challenge-response verifier using MediaPipe hand detection. After completion, the user signs a Solana Devnet transaction that records a proof-consumption event on-chain.
+
+The current MVP does not yet run the full HumanPulse validator network. Solana Devnet validates the transaction, while the browser performs the local challenge-response step.
+
+The full HumanPulse validator network, recursive zk-STARK aggregation layer, and production biometric proof pipeline are part of the technical roadmap, not the current MVP.
+
 ---
 
 ## Repository Structure
