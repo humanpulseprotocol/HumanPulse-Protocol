@@ -205,16 +205,17 @@ The live demo produces a real Solana Devnet proof-consumption transaction.
 Demo flow:
 
 1. Connect a Solana wallet on Devnet.
-2. Generate a HumanPulse challenge.
-3. Complete the challenge-response step.
-4. Consume the proof on Solana Devnet.
-5. Open the transaction on Solana Explorer.
+2. Start the webcam-based HumanPulse hand challenge.
+3. Raise one hand in front of the camera.
+4. Complete local browser-based hand detection.
+5. Consume the proof on Solana Devnet.
+6. Open the transaction on Solana Explorer.
 
 Example Devnet transaction:
 
 https://explorer.solana.com/tx/24rntJEHewfqhya5qum4zy9JRCmghYvbgUvNXHAXqZSdujgz5vNzY7KzPaT91YvY1u9AriGGvEP8ugxJaC3PyjLu?cluster=devnet
 
-MVP note: the live demo uses a Solana Memo transaction to demonstrate proof consumption on Devnet. The deployed HumanPulse Anchor burn-on-use program represents the protocol’s burn-based verification fee mechanism.
+MVP note: the live demo uses browser-based MediaPipe hand detection for challenge-response and a Solana Memo transaction to demonstrate proof consumption on Devnet. The deployed HumanPulse Anchor burn-on-use program represents the protocol’s burn-based verification fee mechanism.
 
 ---
 
