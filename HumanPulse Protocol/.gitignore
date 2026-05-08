@@ -1,0 +1,29 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# Solana
+.env
+*.key
+*.pem
+*.json.key
+
+# Anchor
+anchor/target/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
