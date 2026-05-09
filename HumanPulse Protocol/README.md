@@ -225,6 +225,23 @@ The current MVP does not yet run the full HumanPulse validator network. Solana D
 
 The full HumanPulse validator network, recursive zk-STARK aggregation layer, and production biometric proof pipeline are part of the technical roadmap, not the current MVP.
 
+## HPP-First Gas Abstraction Roadmap
+
+HumanPulse is designed for an HPP-first verification economy.
+
+In production, end users should not need to manually acquire SOL just to complete a HumanPulse verification. Verification events are intended to be priced and consumed in $HPP, while Solana network fees can be abstracted through sponsored transactions, relayers, application-level fee delegation, or a protocol-managed Gas Abstraction Reserve.
+
+![HPP Verification Fee Flow](figures/HPP_Verification_Fee_Flow_v3.png)
+
+In the current hackathon MVP, Devnet SOL is used only to pay Solana transaction fees for the live demo. The deployed $HPP token and Anchor burn-on-use program represent the intended verification fee mechanism.
+
+Future implementation path:
+
+1. User completes the HumanPulse challenge.
+2. User or application consumes $HPP for the verification event.
+3. A relayer, application, or protocol fee-payer wallet pays the SOL network fee.
+4. A portion of $HPP verification fees funds validator rewards, burn mechanics, and gas abstraction reserves.
+
 ---
 
 ## Repository Structure
