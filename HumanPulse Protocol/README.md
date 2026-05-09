@@ -231,7 +231,7 @@ HumanPulse is designed for an HPP-first verification economy.
 
 In production, end users should not need to manually acquire SOL just to complete a HumanPulse verification. Verification events are intended to be priced and consumed in $HPP, while Solana network fees can be abstracted through sponsored transactions, relayers, application-level fee delegation, or a protocol-managed Gas Abstraction Reserve.
 
-![HPP Verification Fee Flow](figures/HPP_Verification_Fee_Flow_v3.png)
+![HPP Verification Fee Flow](https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/figures/HPP_Verification_Fee_Flow_v3.png.jpg)
 
 In the current hackathon MVP, Devnet SOL is used only to pay Solana transaction fees for the live demo. The deployed $HPP token and Anchor burn-on-use program represent the intended verification fee mechanism.
 
