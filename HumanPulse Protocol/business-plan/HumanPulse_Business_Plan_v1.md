@@ -1,4 +1,4 @@
-![HumanPulse Protocol Logo](./humanpulse-logo.png)
+![HumanPulse Protocol Logo](https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/figures/business_plan_humanpulse-logo.png)
 
 # HumanPulse Protocol — Business Plan v1
 
