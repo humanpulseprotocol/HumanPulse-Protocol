@@ -305,7 +305,7 @@ The intended production model is:
 4. the reserve maintains SOL liquidity for fee-payer wallets;
 5. the end-user experience remains HPP-first or even fully sponsored by the application.
 
-![HPP Verification Fee Flow](../figures/HPP_Verification_Fee_Flow_v3.png)
+![HPP Verification Fee Flow](https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/figures/HPP_Verification_Fee_Flow_v3.png.jpg)
 
 ### 9.1 Example Fee Split
 
