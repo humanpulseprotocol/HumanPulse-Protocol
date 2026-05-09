@@ -31,7 +31,7 @@ The MVP combines webcam-based liveness, challenge-response verification, a Solan
 - **Landing Repository:** https://github.com/humanpulseprotocol/humanpulse-landing
 - **Technical Whitepaper:** https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/whitepaper/HumanPulse_Technical_Whitepaper_v7.2_FINAL.pdf
 - **Pitch Deck:** https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/hackathon-narrative/HumanPulse_Protocol_Solana_Frontier_Pitch_Deck_FINAL_v9.pdf 
-- **Business Plan:** [HumanPulse Business Plan v1](business-plan/HumanPulse_Business_Plan_v1.md)
+- **Business Plan:** [HumanPulse Business Plan v1](https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/business-plan/HumanPulse_Business_Plan_v1.pdf)
 
 - ## Repository Structure
 
