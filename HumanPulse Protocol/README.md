@@ -33,6 +33,17 @@ The MVP combines webcam-based liveness, challenge-response verification, a Solan
 - **Pitch Deck:** https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/hackathon-narrative/HumanPulse_Protocol_Solana_Frontier_Pitch_Deck_FINAL_v9.pdf 
 - **Business Plan:** [HumanPulse Business Plan v1](business-plan/HumanPulse_Business_Plan_v1.md)
 
+- ## Repository Structure
+
+The repository is organized as follows:
+
+- `whitepaper/` — final HumanPulse Technical Whitepaper v7.2.
+- `hackathon-narrative/` — Solana Frontier hackathon narrative, pitch deck, and submission-oriented materials.
+- `figures/` — protocol diagrams and visual assets, including the HPP verification fee flow.
+- `business-plan/` — HumanPulse Business Plan v1.
+- `contracts-humanpulse_burn-tests/` — TypeScript test file for the HumanPulse burn-on-use mechanism (`humanpulse_burn.ts`).
+- `contracts-humanpulse_burn-programs-humanpulse_burn-src/` — Rust Anchor program source for the HumanPulse burn-on-use program (`lib.rs`).
+
 ---
 
 ## What We Built for the Hackathon
