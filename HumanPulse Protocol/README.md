@@ -33,6 +33,14 @@ The MVP combines webcam-based liveness, challenge-response verification, a Solan
 - **Pitch Deck:** https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/hackathon-narrative/HumanPulse_Protocol_Solana_Frontier_Pitch_Deck_FINAL_v9.pdf 
 - **Business Plan:** [HumanPulse Business Plan v1](https://github.com/humanpulseprotocol/HumanPulse-Protocol/blob/main/HumanPulse%20Protocol/business-plan/HumanPulse_Business_Plan_v1.pdf)
 
+---
+
+## Protocol Evolution
+
+- **Partner-funded verification capacity model:** [`protocol-evolution/HUMANPULSE_PARTNER_FUNDED_VERIFICATION_MODEL.md`](protocol-evolution/HUMANPULSE_PARTNER_FUNDED_VERIFICATION_MODEL.md) — active protocol evolution note defining the intended Pulse-Bronze model where partners fund HPP verification budgets and end users generally need no SOL or HPP for sponsored verification flows.
+
+This protocol evolution note does not modify the frozen Solana Frontier Hackathon submission.
+
 - ## Repository Structure
 
 The repository is organized as follows:
